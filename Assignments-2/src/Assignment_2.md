@@ -230,3 +230,17 @@
 > int rand = (int)(Math.random() * (26)) + 25;
 > 
 > int rand = (int)(Math.random() * (25)) - 10;
+> 
+> ### AP Questions
+> 
+> **2.1**
+> 
+> C
+> 
+> **2.2**
+> 
+> B
+> 
+> **2.3**
+> 
+> C
